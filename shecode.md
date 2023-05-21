@@ -153,4 +153,8 @@ spec:
 
 # The End!!! 
 
-We have successfully containerized and deployed our sample go app. You can access the app at http://afbc9b80030f342138e5447ab5a32642-776669735.us-east-1.elb.amazonaws.com:8080/#/home for a while, before i take it down. The username and password is **"test"**
+We have successfully containerized and deployed our sample go app. You can access the app at http://afbc9b80030f342138e5447ab5a32642-776669735.us-east-1.elb.amazonaws.com:8080/#/home for a while, before i take it down. The username and password is **"test"** 
+
+
+![final closure](https://github.com/StrangeJay/go-webapp-sample/assets/105195327/b914f512-b1b6-425e-b743-70a334193f8a)
+
