@@ -61,8 +61,9 @@ substitute the necessary values.
 
 - Go to your management console to view your newly created cluster. 
 ![](images/eks%20mc.png)  
-![](images/created%20kluster.png)  
+![](images/shecode%20cluster.png)  
 
+>**Note** The version of your kubectl can be the same as or up to one minor version earlier or later than the Kubernetes version of your cluster. For example, if your cluster version is 1.26, you can use kubectl version 1.27, or 1.26 with it. Deviating from this could cause problems during the creation of your cluster. 
 ---
 
 ### Step4: Create a managed node group 
