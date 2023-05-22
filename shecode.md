@@ -20,7 +20,7 @@
 ![](images/working%20page.png)  
 
 
-### Step2: Push the image to an image repository 
+### Step2: Push the image to a repository 
 
 For this task i used docker hub.
 
