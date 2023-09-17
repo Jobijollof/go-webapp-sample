@@ -181,5 +181,5 @@ Please read [CONTRIBUTING.md](https://github.com/ybkuroki/go-webapp-sample/blob/
 ## License
 The License of this sample is *MIT License*.
 
-I want to see a movie jenkins please
+I want to see a movie.
 
