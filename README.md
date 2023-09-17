@@ -181,5 +181,5 @@ Please read [CONTRIBUTING.md](https://github.com/ybkuroki/go-webapp-sample/blob/
 ## License
 The License of this sample is *MIT License*.
 
-Jenkins to build automatically
+Jenkins ooooo
 
